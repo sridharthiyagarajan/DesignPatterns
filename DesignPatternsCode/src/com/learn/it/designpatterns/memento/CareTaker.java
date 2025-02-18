@@ -18,7 +18,7 @@ public class CareTaker {
 		
 		if(!history.isEmpty()) {
 			history.pop();
-			textEditor.writeContent(history.peek().getContent());
+			textEditor.restore(history.peek());
 		}
 	}
 }

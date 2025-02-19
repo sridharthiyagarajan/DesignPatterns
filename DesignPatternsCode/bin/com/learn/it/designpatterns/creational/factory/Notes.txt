@@ -1,0 +1,10 @@
+**** CREATIONAL PATTERN ****
+
+1. Encapsulates Object Creation: 
+Provides a method to create objects without specifying their exact class.
+
+2. Promotes Loose Coupling: 
+Decouples client code from specific implementations, enhancing flexibility and scalability.
+
+3. Real-World Use Cases: 
+Used in database connections, UI component creation, and dependency injection frameworks.

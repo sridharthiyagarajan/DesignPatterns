@@ -1,0 +1,10 @@
+**** CREATIONAL PATTERN ****
+
+1. Enhances Object Functionality Dynamically: 
+Adds new behaviors to objects without modifying their structure or affecting other instances.
+
+2. Follows Open/Closed Principle: 
+Allows extension of functionality without altering existing code.
+
+3. Real-World Use Cases: 
+Used in UI frameworks (adding scrollbars, borders), logging mechanisms, and data compression/encryption.

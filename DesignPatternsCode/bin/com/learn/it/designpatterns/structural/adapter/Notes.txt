@@ -1,0 +1,10 @@
+**** CREATIONAL PATTERN ****
+
+1. Bridges Incompatible Interfaces: 
+Converts an existing class’s interface into one that a client expects, enabling interoperability.
+
+2. Supports Legacy Code Integration: 
+Allows old systems to work with new ones without modifying existing code.
+
+3. Real-World Use Cases: 
+Used in converting data formats, integrating third-party libraries, and enabling cross-platform compatibility (e.g., power adapters, API wrappers).

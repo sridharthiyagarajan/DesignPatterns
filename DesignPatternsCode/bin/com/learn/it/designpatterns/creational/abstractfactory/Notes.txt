@@ -1,0 +1,10 @@
+**** CREATIONAL PATTERN ****
+
+1. Creates Families of Related Objects: 
+Provides an interface for creating multiple related objects without specifying their concrete classes.
+
+2. Enhances Scalability: 
+Ensures consistency among objects while allowing easy extension for new product variants.
+
+3. Real-World Use Cases: 
+Used in GUI toolkits (cross-platform UI components), database connectors, and theme-based application designs.

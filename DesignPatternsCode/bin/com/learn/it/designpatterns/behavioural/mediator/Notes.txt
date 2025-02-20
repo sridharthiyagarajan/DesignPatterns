@@ -1,0 +1,10 @@
+**** BEHAVIOURAL PATTERN ****
+
+1. Centralized Communication: 
+Reduces direct dependencies between objects by having a mediator manage interactions.
+
+2. Improves Maintainability: 
+Simplifies object relationships, making the system easier to modify and extend.
+
+3. Real-World Use Cases: 
+Used in chat applications, air traffic control systems, and GUI component interactions.

@@ -1,0 +1,10 @@
+**** CREATIONAL PATTERN ****
+
+1. Step-by-Step Object Construction: 
+Separates object creation from its representation, allowing complex objects to be built in a structured manner.
+
+2. Improves Readability & Maintainability: 
+Avoids telescoping constructors by providing a fluent API for setting attributes.
+
+3. Real-World Use Cases: 
+Used in constructing JSON/XML parsers, creating complex UI components, and assembling immutable objects like StringBuilder in Java.

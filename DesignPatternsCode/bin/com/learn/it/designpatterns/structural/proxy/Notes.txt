@@ -1,0 +1,10 @@
+**** CREATIONAL PATTERN ****
+
+1. Controls Access to an Object: 
+Acts as an intermediary to manage access, add security, or optimize performance.
+
+2. Types of Proxies: 
+Virtual (lazy loading), Protection (access control), and Remote (network communication).
+
+3. Real-World Use Cases: 
+Used in caching, authentication, lazy initialization, and API rate limiting.

@@ -1,4 +1,4 @@
-**** CREATIONAL PATTERN ****
+**** STRUCTURAL PATTERN ****
 
 1. Bridges Incompatible Interfaces: 
 Converts an existing class’s interface into one that a client expects, enabling interoperability.

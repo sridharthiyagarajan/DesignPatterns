@@ -1,4 +1,4 @@
-**** CREATIONAL PATTERN ****
+**** STRUCTURAL PATTERN ****
 
 1. Enhances Object Functionality Dynamically: 
 Adds new behaviors to objects without modifying their structure or affecting other instances.

@@ -1,0 +1,10 @@
+**** STRUCTURAL PATTERN ****
+
+1. Tree Structure for Hierarchies: 
+Treats individual objects and groups of objects uniformly using a common interface.
+
+2. Simplifies Client Code: 
+Clients interact with a single interface without worrying about complex structures.
+
+3. Real-World Use Cases: 
+Used in file systems (folders & files), UI components (buttons, panels), and organizational charts.

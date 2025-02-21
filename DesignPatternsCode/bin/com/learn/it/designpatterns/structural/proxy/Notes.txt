@@ -1,4 +1,4 @@
-**** CREATIONAL PATTERN ****
+**** STRUCTURAL PATTERN ****
 
 1. Controls Access to an Object: 
 Acts as an intermediary to manage access, add security, or optimize performance.

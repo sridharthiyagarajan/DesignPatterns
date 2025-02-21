@@ -1,0 +1,10 @@
+**** STRUCTURAL PATTERN ****
+
+1. Simplifies Complex Systems: 
+Provides a unified, easy-to-use interface over a set of complex subsystems.
+
+2. Reduces Coupling: 
+Hides implementation details, making the system easier to use and maintain.
+
+3. Real-World Use Cases: 
+Used in APIs, database connection management, and media libraries (e.g., playing audio/video).

@@ -1,0 +1,10 @@
+**** STRUCTURAL PATTERN ****
+
+1. Minimizes Memory Usage: 
+Shares common object data instead of creating multiple instances, reducing overhead.
+
+2. Separates Intrinsic & Extrinsic State: 
+Shared (intrinsic) data is stored in flyweights, while unique (extrinsic) data is passed during execution.
+
+3. Real-World Use Cases: 
+Used in text editors (character glyphs), caching, game development (storing reusable sprites), and database connection pooling.
